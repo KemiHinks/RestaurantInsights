@@ -58,5 +58,5 @@ ___
 # **Data Visualisation**
 Interact with the dashboard here: https://public.tableau.com/app/profile/kemi.hinkson.adewunmi/viz/DiningPerformance/Dashboard1
 
-![](visual.jpg)
+![](restaurant_tableau.jpg)
   
