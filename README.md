@@ -1,4 +1,4 @@
-# Papa's Bistro Restaurant
+ # Papa's Bistro Restaurant
 Analysis of Papa's Bistro's 1st Quarter figures
 
 <hr style="border: 1px solid black;">
@@ -63,7 +63,11 @@ ___
 
 3) An average of 2.3 items are ordered per transaction, indicating that customers typically select multiple items per visit.
 
-4) The average transaction amount is 
+4) The average transaction amount is £14.46.
+
+5) An average transaction value of £14.46, compared to a mean item price of £13.33, suggests that customers are more frequently purchasing lower-priced items.
+
+
 
 # **Data Visualisation**
 Interact with the dashboard here: https://public.tableau.com/app/profile/kemi.hinkson.adewunmi/viz/DiningPerformance/Dashboard1
