@@ -46,14 +46,24 @@ Tableau
 
 1) What are most popular items on the menu?
 2) What is the most popular cuisine on the menu?
-3) How many items are ordered on average per order?
-4) What is the average amount spent per order?  
+3) How many items are ordered on average per transaction?
+4) What is the average transaction amount?  
 5) How are sales performing over time? 
 6) What is the busiest day of the week (what days are most orders put through)?   
 7) What day of the week performs best revenue wise?
 8) On average which period of the day is busiest? List from busiest to least busiest period showing sales revenue and orders
 
 ___
+
+# **Insights**
+
+1) The most popular item on the menu is Hamburger with Edamame a close second.
+
+2) American cuisine is the most frequently ordered, as measured by the average number of items sold. Notably, there is an inverse relationship between the number of items available within a cuisine and its overall popularity. Despite offering only 6 items, American cuisine outperforms Mexican and Italian cuisines in demand, both of which feature 9 items yet rank lowest in average orders.
+
+3) An average of 2.3 items are ordered per transaction, indicating that customers typically select multiple items per visit.
+
+4) The average transaction amount is 
 
 # **Data Visualisation**
 Interact with the dashboard here: https://public.tableau.com/app/profile/kemi.hinkson.adewunmi/viz/DiningPerformance/Dashboard1
