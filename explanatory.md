@@ -2,8 +2,8 @@
 
 1) What are most popular items on the menu?
 2) What is the most popular cuisine on the menu?
-3) How many items are ordered on average per order?
-4) What is the average amount spent per order?  
+3) How many items are ordered on average per transaction?
+4) What is the transaction amount?  
 5) How are sales performing over time? 
 6) What is the busiest day of the week (what days are most orders put through)?   
 7) What day of the week performs best revenue wise?
@@ -64,7 +64,7 @@ ORDER BY average_orders DESC
 | Italian  | 9     | 2948          | 327.56         |
 | Mexican  | 9     | 2945          | 327.22         |
 
-3) How many items are ordered on average per order?
+3) How many items are ordered on average per transaction?
 
 ```sql
 SELECT ROUND(AVG(items_ordered), 1) AS average_order_size FROM 
@@ -75,7 +75,7 @@ GROUP BY order_id)
 |--------------------|
 | 2.3                |
 
-4) What is the average amount spent per order?
+4) What is the average transaction amount?
 
 ```sql
 SELECT ROUND(AVG(spend), 2) AS average_spend FROM
