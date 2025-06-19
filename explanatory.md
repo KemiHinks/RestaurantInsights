@@ -7,7 +7,7 @@
 5) How are sales performing over time? 
 6) What is the busiest day of the week (what days are most orders put through)?   
 7) What day of the week performs best revenue wise?
-8) On average which period of the day is busiest? List from busiest to least busiest period showing sales revenue and orders
+8) On average which period of the day is busiest? List from busiest to least busiest period showing sales revenue and orders.
 
 # **SOLUTIONS**  
 
