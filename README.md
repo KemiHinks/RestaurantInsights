@@ -59,13 +59,20 @@ ___
 
 1) The most popular item on the menu is Hamburger with Edamame a close second.
 
-2) American cuisine is the most frequently ordered, as measured by the average number of items sold. Notably, there is an inverse relationship between the number of items available within a cuisine and its overall popularity. Despite offering only 6 items, American cuisine outperforms Mexican and Italian cuisines in demand, both of which feature 9 items yet rank lowest in average orders.
+2) American cuisine is the most frequently ordered, as measured by the average number of items sold. Notably, there is an inverse relationship between the number of items available within a cuisine and its overall popularity. Despite offering only 6 items, American cuisine outperforms Mexican and Italian cuisines, both of which offer 9 items yet rank lowest in average orders.
 
 3) An average of 2.3 items are ordered per transaction, indicating that customers typically select multiple items per visit.
 
-4) The average transaction amount is £14.46.
+4) The average transaction amount is £14.46. Being that the mean prices of menu items is £13.33 suggests that customers are more frequently purchasing lower-priced items.
 
-5) An average transaction value of £14.46, compared to a mean item price of £13.33, suggests that customers are more frequently purchasing lower-priced items.
+5) Variation in weekly sales revenue is small which will make for more accurate forecastng. Sales revenue typically peaks every first week of the month.
+
+6) Mondays and Fridays are the busiest days of the week in terms of items ordered. There is a mid-week dip on Wednesdays which is the quietest day of the week. Overall the variation in demand throughout the week is moderate.
+
+7) The days generating the highest sales revenue aligns with the busiest days of the week. The strong positive correlation between the number of items ordered and overall revenue indicates that increased footfall or order frequency directly drives higher income, rather than high-value item purchases or transactions.
+
+8) 12pm - 2pm is the busiest period followed by 5pm - 8pm. The opening and closing hour are extremely quiet. Adjusting operating hours may help optimize resource allocation and improve overall profitability.
+
 
 
 
